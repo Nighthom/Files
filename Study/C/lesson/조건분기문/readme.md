@@ -62,4 +62,8 @@ switch 문은 코드를 더 간결하게 보이게 만들어주는 효과가 있
 선택일 수 있습니다.
 
 
-### [조건문 최적화](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%EC%A1%B0%EA%B1%B4%EB%B6%84%EA%B8%B0%EB%AC%B8/%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%B5%9C%EC%A0%81%ED%99%94.md)
+### [조건문 최적화](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%EC%A1%B0%EA%B1%B4%EB%B6%84%EA%B8%B0%EB%AC%B8/%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%B5%9C%EC%A0%81%ED%99%94.md)  
+
+[이전 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
+[목차로 돌아가기](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%A1%A0)  
+[다음 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%B0%98%EB%B3%B5%EB%AC%B8)
