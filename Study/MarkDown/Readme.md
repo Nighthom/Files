@@ -5,7 +5,7 @@
   3.  [글자 강조](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EA%B8%80%EC%9E%90%EA%B0%95%EC%A1%B0.md)
   4.  [코드 삽입](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EC%BD%94%EB%93%9C%EC%82%BD%EC%9E%85.md)
   5.  [인용문 입력](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EC%9D%B8%EC%9A%A9%EB%AC%B8%20%EC%9E%85%EB%A0%A5.md)
-  6.  목록 입력
+  6.  [목록 입력](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EB%AA%A9%EB%A1%9D%20%EC%9E%85%EB%A0%A5.md)
   7.  이미지 삽입
   8.  링크 삽입
   9.  표 입력
