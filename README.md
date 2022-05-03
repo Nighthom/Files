@@ -2,8 +2,7 @@
 
 
 1. 학습할 것  
-  A. MarkDown  url :    
-    A.1  
+  A. [MarkDown](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/Readme.md)  
   B. Python  
   C. C  
   D. C++  
