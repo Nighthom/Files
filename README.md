@@ -2,10 +2,12 @@
 
 
 1. 학습할 것  
-  A. Python  
-  B. C  
-  C. C++  
-  D. 자료구조  
-  E. 알고리즘  
-  F. 리버싱  
+  A. MarkDown  url :    
+     A.1  
+  B. Python  
+  C. C  
+  D. C++  
+  E. 자료구조  
+  F. 알고리즘  
+  G. 리버싱  
   
