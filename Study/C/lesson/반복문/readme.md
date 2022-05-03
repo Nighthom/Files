@@ -40,5 +40,5 @@ for(i=0; i<반복횟수; i++) {
 >> continue는 while, do while의 경우 반복문의 조건식으로 이동하여 조건식부터 수행합니다.
 >> 하지만 for문의 경우 루프조건 실행식과 3번쨰의 반복수행 연산부터 다시 시작합니다.
 
-[이전 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EC%A1%B0%EA%B1%B4%EB%B6%84%EA%B8%B0%EB%AC%B8)
+[이전 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EC%A1%B0%EA%B1%B4%EB%B6%84%EA%B8%B0%EB%AC%B8)  
 [목차로 이동하기](https://github.com/Nighthom/Files/tree/main/Study/C)
