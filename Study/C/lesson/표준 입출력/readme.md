@@ -29,3 +29,6 @@ printf, puts, putchar같은 함수가 바로 출력 함수입니다.
   1. [표준입력함수](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5/%ED%91%9C%EC%A4%80%EC%9E%85%EB%A0%A5%ED%95%A8%EC%88%98.md)
   2. [표준출력함수](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5/%ED%91%9C%EC%A4%80%EC%B6%9C%EB%A0%A5%ED%95%A8%EC%88%98.md)
   3. [getch, getche](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5/getch%2C%20getche)
+
+그리고, 포맷 스트링을 사용하는 함수들을 위한 포맷 스트링 명세입니다.
+  4. [포맷 스트링]
