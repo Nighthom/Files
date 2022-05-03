@@ -8,5 +8,5 @@
   6.  [목록 입력](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EB%AA%A9%EB%A1%9D%20%EC%9E%85%EB%A0%A5.md)
   7.  [이미지 삽입](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%82%BD%EC%9E%85.md)
   8.  [링크 삽입](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EB%A7%81%ED%81%AC%20%EC%82%BD%EC%9E%85.md)
-  9.  표 입력
+  9.  [표 입력](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%ED%91%9C%20%EC%9E%85%EB%A0%A5.md)
   10. 수평선
