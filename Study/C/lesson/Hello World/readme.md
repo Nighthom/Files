@@ -62,3 +62,6 @@ return은 일반적으로 함수의 반환을 의미합니다.
 함수 실행 중 return 문을 만나면, 
 (x86) eax / (x64) rax
 에 반환값을 저장하고, 함수를 종료합니다.
+
+[목차로 돌아가기](https://github.com/Nighthom/Files/tree/main/Study/C)
+[다음 문서](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%A1%A0)
