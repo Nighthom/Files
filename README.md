@@ -4,7 +4,7 @@
 1. 학습할 것  
   A. [MarkDown](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/Readme.md)  
   B. Python  
-  C. C  
+  C. [C](https://github.com/Nighthom/Files/tree/main/Study/C) 
   D. C++  
   E. 자료구조  
   F. 알고리즘  
