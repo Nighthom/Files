@@ -26,6 +26,6 @@ printf, puts, putchar같은 함수가 바로 출력 함수입니다.
 
 다음은 표준입력함수, 표준출력함수의 상세 API입니다.
 
-  1. [표준입력함수]
+  1. [표준입력함수](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5/%ED%91%9C%EC%A4%80%EC%9E%85%EB%A0%A5%ED%95%A8%EC%88%98.md)
   2. [표준출력함수]
   3. [getch, getche]
