@@ -31,4 +31,8 @@ printf, puts, putchar같은 함수가 바로 출력 함수입니다.
   3. [getch, getche](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5/getch%2C%20getche)
 
 그리고, 포맷 스트링을 사용하는 함수들을 위한 포맷 스트링 상세입니다.  
-    4. [포맷 스트링](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5/%ED%8F%AC%EB%A7%B7%20%EC%8A%A4%ED%8A%B8%EB%A7%81.md)
+    4. [포맷 스트링](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%91%9C%EC%A4%80%20%EC%9E%85%EC%B6%9C%EB%A0%A5/%ED%8F%AC%EB%A7%B7%20%EC%8A%A4%ED%8A%B8%EB%A7%81.md)  
+ 
+ [이전 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%A1%A0)  
+ [목차로 돌아가기](https://github.com/Nighthom/Files/tree/main/Study/C)  
+ [다음 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EC%A1%B0%EA%B1%B4%EB%B6%84%EA%B8%B0%EB%AC%B8)
