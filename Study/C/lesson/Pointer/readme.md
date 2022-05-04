@@ -88,6 +88,7 @@ void* malloc(size_t size);
 >> 다 쓰고난 메모리는 free()를 통해서 해제할 수 있습니다.  
 >> 할당 해제를 하지 않는다면 운영체제에 지속적으로 메모리가  
 >> 남으니 꼭 해제해 주셔야 합니다.  
+[메모리 동적 할당 함수 상세](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/Pointer/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%8F%99%EC%A0%81%20%ED%95%A0%EB%8B%B9%20%ED%95%A8%EC%88%98.md)
 
 ## 다중 포인터
 >> 다중 포인터라는 개념은
