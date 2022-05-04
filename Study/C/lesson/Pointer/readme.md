@@ -118,6 +118,6 @@ int** dblptr = &ptr;
   [포인터의 활용](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/Pointer/%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%99%9C%EC%9A%A9)  
   
   
-  
+  <br><br><br>
   [이전 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%B0%98%EB%B3%B5%EB%AC%B8)  
   [목차](https://github.com/Nighthom/Files/tree/main/Study/C)  
