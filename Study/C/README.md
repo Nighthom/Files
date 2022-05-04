@@ -6,3 +6,4 @@
 4. [조건 분기문](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EC%A1%B0%EA%B1%B4%EB%B6%84%EA%B8%B0%EB%AC%B8)
 5. [반복문](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%B0%98%EB%B3%B5%EB%AC%B8)
 6. [포인터](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/Pointer)
+7. [배열](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%EB%B0%B0%EC%97%B4)
