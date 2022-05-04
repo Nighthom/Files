@@ -119,5 +119,5 @@ int** dblptr = &ptr;
   
   
   
-  [이전 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%B0%98%EB%B3%B5%EB%AC%B8)
+  [이전 페이지](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%B0%98%EB%B3%B5%EB%AC%B8)  
   [목차](https://github.com/Nighthom/Files/tree/main/Study/C)  
