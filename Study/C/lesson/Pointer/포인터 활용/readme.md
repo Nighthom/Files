@@ -2,7 +2,7 @@
 
 >> 이 문서는 포인터의 활용에 대한 문서입니다.
 
-  1. [Call by reference(참조에 의한 호출)]
+  1. [Call by reference(참조에 의한 호출)](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/Pointer/%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%99%9C%EC%9A%A9/Call%20by%20Reference.md)
   2. [Linked List]
   3. [메모리에 직접 접근]
   4. [함수 포인터]
