@@ -31,8 +31,8 @@
 ```C
 1   void clear_stdin() {
 2     char ch;
-3     while((ch = getchar()) != NULL && ch != '\n') {};
+3     while((ch = getchar()) != EOF && ch != '\n') {};
 4   }
 ```
 >> 위와 같은 clear_stdin 함수로 stdin 입력버퍼를
->> NULL 혹은 \\n을 만날 때까지 비우면 됩니다.
+>> EOF 혹은 \\n을 만날 때까지 비우면 됩니다.
