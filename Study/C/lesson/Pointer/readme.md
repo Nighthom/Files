@@ -92,7 +92,7 @@ void* malloc(size_t size);
 
 ## 메모리 초기화 / 쓰기 / 복사 / 비교 등등
 >> 이에 대한 함수는
->> [메모리 관리 함수]() 로 이동해주세요.
+>> [메모리 관리 함수](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/Pointer/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20%ED%95%A8%EC%88%98.md) 로 이동해주세요.
 
 ## 다중 포인터
 >> 다중 포인터라는 개념은
