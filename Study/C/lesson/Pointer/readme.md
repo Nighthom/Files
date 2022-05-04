@@ -36,4 +36,4 @@ int* ptr = &변수;
 >> 포인터에 대한 활용은 워낙 광범위한 범위를 갖기에  
 >> 따로 문서로 분류하겠습니다.  
 
-  [포인터의 활용]
+  [포인터의 활용](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/Pointer/%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%99%9C%EC%9A%A9)
