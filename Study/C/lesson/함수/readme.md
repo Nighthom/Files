@@ -14,6 +14,5 @@ ret_type func_name(arguments);
 >> 자료형과 바인드될 이름으로 구성됩니다.  
 >> 인자들은 스택 및 레지스터로 전달됩니다.  
 
-[함수 설계 원칙]()  
-[예외처리 원칙]()  
+[함수 설계 원칙](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99.md)  
 [함수 세부 이론]()  
