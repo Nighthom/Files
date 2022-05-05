@@ -52,5 +52,5 @@ int add(int a, int b) {
 >> 원본 변수가 아닙니다.  
 >> 원본 변수를 전달하고 싶다면, 위 링크 문서를 참조하십시오.  
 
-[함수 설계 원칙](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99.md)  
-[함수 세부 이론]()  
+[함수 설계 원칙](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99.md)    
+[함수 세부 이론](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99.md)    
