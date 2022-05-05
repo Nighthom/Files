@@ -46,6 +46,11 @@ int add(int a, int b) {
 >> 스택 프레임(Stack Frame) 기법입니다.    
 >> 이는 세부 이론에서 풀도록 하겠습니다.  
 
+# [Call by Value, Call by Reference](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/Pointer/%ED%8F%AC%EC%9D%B8%ED%84%B0%20%ED%99%9C%EC%9A%A9/Call%20by%20Reference.md)  
+>> Call by Value는 함수 호출시에 레지스터나 스택으로 값을 복사한 뒤  
+>> 인자로 전달한다는 뜻입니다. 즉, 전달되는 인자는  
+>> 원본 변수가 아닙니다.  
+>> 원본 변수를 전달하고 싶다면, 위 링크 문서를 참조하십시오.  
 
 [함수 설계 원칙](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99.md)  
 [함수 세부 이론]()  
