@@ -73,3 +73,4 @@ arr[10] = 1;
 >> 만드는것이 좋아요.  
 
 [다중배열, 배열포인터](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B42.md)
+[배열의 활용](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%EB%B0%B0%EC%97%B4/%EB%B0%B0%EC%97%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9.md)
