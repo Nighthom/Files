@@ -38,8 +38,9 @@ main 앞의 int는 자료형으로, integer의 약어입니다.
 
 4byte 정수를 의미합니다.(표현범위 : -2^16 ~ 2^16-1) 
 
-```
+```c
 printf("Hello World\n");
+```
 이 구문은 stdio.h 헤더파일에 선언된 printf 함수를 호출하는 모습입니다.  
 printf의 parameter으로 "Hello World\n"라는 문자열을 전달하고 있습니다.  
 
