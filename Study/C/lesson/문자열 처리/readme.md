@@ -36,4 +36,7 @@
 >> 그리고, 문자열 상수는 L"String"처럼 앞에 L을 붙여서 나타냅니다.
 >> 출력함수는 wprintf, swprintf 등을 이용합니다.  
 
-### [문자 처리 함수, 문자열 처리 함수]()
+### [문자 처리 함수](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B2%98%EB%A6%AC/%EB%AC%B8%EC%9E%90%20%EC%B2%98%EB%A6%AC%20%ED%95%A8%EC%88%98.md)  
+
+
+### [문자열 처리 함수]()
