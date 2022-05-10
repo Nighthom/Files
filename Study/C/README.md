@@ -8,4 +8,4 @@
 6. [포인터](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/Pointer)  
 7. [배열](https://github.com/Nighthom/Files/blob/main/Study/C/lesson/%EB%B0%B0%EC%97%B4)  
 8. [함수](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%ED%95%A8%EC%88%98)  
-9. [문자열 처리 함수](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B2%98%EB%A6%AC%20%ED%95%A8%EC%88%98)  
+9. [문자열 처리](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B2%98%EB%A6%AC)  
