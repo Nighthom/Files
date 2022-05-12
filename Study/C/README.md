@@ -10,4 +10,4 @@
 8. [함수](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%ED%95%A8%EC%88%98)  
 9. [문자열 처리](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B2%98%EB%A6%AC)      
 10. [유틸리티용 함수](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0%EC%9A%A9%20%ED%95%A8%EC%88%98)    
-11. [변수 이론]()
+11. [변수 이론](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%B3%80%EC%88%98%20%EC%9D%B4%EB%A1%A0)  
