@@ -1,0 +1,14 @@
+﻿  screen.c
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(48,47): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(59,13): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[30]'과(와) 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(59,9): warning C4024: 'gets_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(63,15): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[15]'과(와) 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(63,9): warning C4024: 'gets_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(66,38): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[30]'과(와) 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(66,34): warning C4024: 'insertNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(66,46): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[15]'과(와) 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(66,40): warning C4024: 'insertNode': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(114,25): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[2]'과(와) 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(114,22): warning C4024: 'gets_s': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\AVL 트리\screen.c(132,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  AVL 트리.vcxproj -> C:\Users\zsyhe\OneDrive\바탕 화면\Seung Joon\source\repos\AVL 트리\x64\Debug\AVL 트리.exe
