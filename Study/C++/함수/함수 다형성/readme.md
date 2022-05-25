@@ -25,3 +25,5 @@ double sum(double a, double b);
 >> 이런 식의 두 함수가 있을 떄,    
 >> 실인수 a, b를 int형으로 전달하면 위 함수가,   
 >> 실인수 a, b를 double형으로 전달하면 아래 함수가 실행됩니다.  
+
+# [다중정의의 모호성](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%ED%95%A8%EC%88%98/%EB%8B%A4%EC%A4%91%EC%A0%95%EC%9D%98%EC%99%80%20%EB%AA%A8%ED%98%B8%EC%84%B1)
