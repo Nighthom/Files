@@ -13,3 +13,4 @@
 11. [변수 이론](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EB%B3%80%EC%88%98%20%EC%9D%B4%EB%A1%A0)   
 12. [공용체](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%B0%8F%20%EA%B3%B5%EC%9A%A9%EC%B2%B4)  
 13. [파일 I/O](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
+14. [전처리기]()
