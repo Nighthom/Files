@@ -4,3 +4,4 @@
   2. [함수 오버라이딩 / 오버로딩](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98%20%EB%8B%A4%ED%98%95%EC%84%B1)
   3. [템플릿](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%ED%95%A8%EC%88%98/%ED%85%9C%ED%94%8C%EB%A6%BF)
   4. [Mangled Name](https://github.com/Nighthom/Files/tree/main/Study/C++/%ED%95%A8%EC%88%98/Mangled%20Name)
+  5. [인라인 함수]()
