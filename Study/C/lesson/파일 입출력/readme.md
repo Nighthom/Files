@@ -77,3 +77,31 @@ int _fcloseall( void );
 >> 아까 설명한 바와 같이, 파일의 끝을 EOF(보통 -1)로 인식합니다.  
 
 ## fprintf() / fscanf()
+>> fprintf와 fscanf는 파일을 대상으로   
+>> printf와 scanf를 수행합니다.  내부적으로 사실 printf와  
+>> scanf는 저 두 함수를 호출하는데, stream인자로  
+>> stdout, stdin을 전달하는 것 뿐입니다.
+
+```C
+int fprintf( FILE* stream, const char* format [, argument]...);
+```
+>> 인자 : stream : FILE 구조체 포인터입니다.
+>> ------ format : 형식 문자열이 담긴 메모리의 주소.
+>> ------ \[, argument] : 형식 문자열에 대응하는 가변 인자들.
+>> 반환값 : 출력된 바이트 수를 반환.
+>> 설명 : 형식 문자열에 맞추어, 파일에 문자열을 출력한다.
+>> 유니코드 : fwprintf()
+
+```C
+int fscanf( FILE* stream, const char* format [,argument]...);
+```
+>> 인자 : stream : FILE 구조체 포인터입니다.
+>> ------ format : 형식 문자열이 담긴 메모리의 주소.
+>> ------ \[, argument] : 형식 문자열에 대응하는 가변 인자들.
+>> 반환값 : 성공적으로 읽어 들인 항목(Field)의 개수를 반환한다.
+>> 설명 : 형식 문자열에 맞추어, 대상 파일로부터 정보를 읽어들이는 함수.  
+>> ------ 가변 인자는 정보가 전달되는 메모리의 주소.
+>> 보안대체 : fscanf_s()
+>> 유니코드 : fwscanf(), fwscanf_s()
+
+# fgetc() / fputc()
