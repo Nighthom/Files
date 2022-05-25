@@ -30,3 +30,7 @@ inline int add(int a, int b);
 >> 실제 어떠한 동작도 하지 않는 함수라면 알아서 그냥 호출을 안해버립니다.    
 >> 이런 최적화할 변수에 대한 힌트는 변수가 적을수록 좋습니다.    
 >> 상수를 잘 써야 해요.  
+
+
+>> 대응되는 것으로는 매크로 함수가 있습니다.
+[매크로 함수](https://github.com/Nighthom/Files/tree/main/Study/C/lesson/%EC%A0%84%EC%B2%98%EB%A6%AC%EA%B8%B0/%EB%A7%A4%ED%81%AC%EB%A1%9C%20%ED%95%A8%EC%88%98)
