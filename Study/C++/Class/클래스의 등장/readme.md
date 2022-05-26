@@ -56,3 +56,31 @@ Yoon.printPerson();
 
 >> 또한, 이러한 Class 내부 함수는 Class 외부에서의 접근을  
 >> 완전하게 차단합니다. 문법적으로 말이지요.  
+
+```C++
+#include <cstdio>
+#include <cstdlib>
+class Person {
+public:
+  int nAge;
+  char stName[20];
+  
+  void printPerson() {
+    printf("이름 : %s, 나이 : %d\n", stName, nAge);         // this->stName, this->nAge와 동일함.
+  }
+}
+
+void _tmain() {
+  Person Yoon = new Person;
+  Yoon.nAge = 30
+  strcpy(Yoon.stName, "윤");
+  Yoon.printPerson();
+  return;
+}
+```
+
+>> 이런 식의 코드 또한 문법적으로 제공한다는 것이죠.  
+
+>> 이런 식의 코드는 프로그래머에게 추상적인 접근을 하기 쉽게 만들어 줍니다.  
+>> 어떠한 프로그래머가 어떤 객체를 어떻게 접근하느냐를 객체 수준에서 조율 가능하니까요.  
+>> 이러한 방식은 프로그램의 오작동을 매우 효과적으로 줄여 줄 수 있는 패러다임입니다.  
