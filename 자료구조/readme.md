@@ -1,6 +1,6 @@
 # 자료구조
 
-  1. Linked List
+  1. [Linked List](https://github.com/Nighthom/Files/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Linked%20List)
   2. Binary Search Tree
   3. Queue
   4. Stack
