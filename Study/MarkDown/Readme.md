@@ -10,4 +10,4 @@
   8.  [링크 삽입](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EB%A7%81%ED%81%AC%20%EC%82%BD%EC%9E%85.md)
   9.  [표 입력](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%ED%91%9C%20%EC%9E%85%EB%A0%A5.md)
   10. [수평선](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EC%88%98%ED%8F%89%EC%84%A0.md)
-  11. [수식 입력]()
+  11. [수식 입력](https://github.com/Nighthom/Files/blob/main/Study/MarkDown/%EC%88%98%EC%8B%9D%20%EC%9E%85%EB%A0%A5.md)
