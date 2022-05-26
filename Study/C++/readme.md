@@ -7,3 +7,4 @@
   5. [범위 기반 Loop](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%EB%B2%94%EC%9C%84%EA%B8%B0%EB%B0%98%20Loop)
   6. [함수](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%ED%95%A8%EC%88%98)
   7. [클래스](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/Class)
+  8. [복사 생성자와 임시 객체]()
