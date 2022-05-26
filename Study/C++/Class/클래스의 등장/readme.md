@@ -33,7 +33,7 @@ int main() {
    Person->nAge = 24;
    strcpy(Person->name, "윤");
    
-   Yoon.printPerson(&Yoon);
+   Yoon->printPerson(&Yoon);
    
    return 0;
 }
