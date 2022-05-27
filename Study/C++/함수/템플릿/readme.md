@@ -1,9 +1,9 @@
-# 함수 Templete
+# 함수 Template
 
 >> 템플릿은 특정 자료형을 대체하는 장치입니다.  
 
 ```C++
-templete <typename T>
+template <typename T>
 
 T add(T a, T b) {
   return a + b;
