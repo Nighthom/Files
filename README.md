@@ -8,7 +8,7 @@
   D. [C++](https://github.com/Nighthom/Files/blob/main/Study/C++/readme.md)  
   E. [자료구조](https://github.com/Nighthom/Files/tree/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)  
   F. [알고리즘]() To be uploaded    
-  G. [운영체제]() To be uploaded
+  G. [운영체제]() To be uploaded  
   H. [어셈블리]() To be uploaded    
   I. [리버싱]()   To be uploaded    
   J. [머신러닝]() To be uploaded    
