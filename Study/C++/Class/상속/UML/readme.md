@@ -18,6 +18,7 @@
 
 
 >> 일반화 관계는 일반적인 객체지향 언어에서는 상속으로 구현됩니다.  
+>> University Class를 상속받은 Professor과 Student의 관계입니다.  
 
 
 
