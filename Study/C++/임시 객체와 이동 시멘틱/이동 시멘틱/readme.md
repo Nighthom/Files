@@ -27,3 +27,7 @@ CTest(const CTest && rhs) {
 >> r-value 참조로 받아오겠죠.  
 >> deep copy를 굳이 할 필요가 없는 상황이니까,  
 >> shallow copy를 적용해줍니다.  
+
+>> 만약에 이 생성자를 정의했다면,  
+>> R-Value 참조를 수행하는 단순대입연산자 또한  
+>> 재정의 해주어야 합니다.  
