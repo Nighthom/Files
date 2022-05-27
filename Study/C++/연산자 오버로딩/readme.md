@@ -7,3 +7,4 @@
 >>  class 형식의 객체에만 정의해 줄 수 있어요.  
 
 # 단순 대입 연산자 오버로딩
+>> 자세한 설명은 [여기](https://github.com/Nighthom/Files/blob/main/Study/C++/%EB%B3%B5%EC%82%AC%20%EC%83%9D%EC%84%B1%EC%9E%90/readme.md#%EB%8B%A8%EC%88%9C-%EB%8C%80%EC%9E%85-%EC%97%B0%EC%82%B0%EC%9E%90-%EA%B3%BC-shallow-copy)로  
