@@ -12,7 +12,8 @@
 >> 어떻게 메서드들을 구현하고, 어떻게 하나의 Class로 엮을까?    
 >> 이에 대한 설계를 미리 하는겁니다.    
 
->> 1. 일반화 관계(Genaralization)
+1. 일반화 관계(Genaralization)
+
 ![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/UML_%EC%83%81%EC%86%8D.png)  
 
 
