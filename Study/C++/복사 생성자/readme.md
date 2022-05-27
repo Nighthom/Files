@@ -41,10 +41,10 @@ public:
                                         //  "상수" 참조형을 받는다. 주로 rhs로 식별자를 많이 씀.    
   // : m_nData(rhs.m_nData) 와 동치
   {
-    this.m_nData = rhs.m_nData;
+    this->m_nData = rhs.m_nData;
   }
 private:
-  int m_nData;
+  int* m_nData;
 }
 ```
 >> 이런 식으로 정의하면, deep copy를 수행합니다.  
@@ -75,3 +75,18 @@ private:
 
 >> 이럴 때 **연산자 오버로딩** 을 이용해서 '=' 연산자를  
 >> 재정의해주어야 합니다.  
+```C++
+CMyData& operator=(const CMyData &rhs) {
+  *m_nData = *this.m_nData;         // 내용을 deep copy해준다.
+  
+  return *this;                    // 객체 자신에 대한 참조를 반환
+}
+```
+>> 위와 같은 문법으로 **연산자** 를 재정의 해 줄 수 있습니다.  
+```C
+a = b;
+a.operater=(b):
+```
+>> 위 두 코드는 **똑같은 함수** 를 호출합니다.  
+>> 하지만 a=b가 더 편하겠죠?  
+>> **연산자 오버로딩**의 더 정확한 내용은 연산자 오버로딩 파트에서 다룹니다.  
