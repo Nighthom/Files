@@ -28,4 +28,6 @@
 >> 이 부분만 개선하면 되겠죠.  
 >> 아무튼, 각 부품들이 5개라고 전제하면, 그것들이 어떤 관계로    
 >> 엮어지는지 협의를 통해서 규정할 것입니다.    
->> 이를 UML이라고 합니다.(Unified Modeling Diagram)  
+>> 이를 **UML**이라고 합니다.(Unified Modeling diagram Language)
+
+>> 클래스는  
