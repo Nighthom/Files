@@ -16,7 +16,7 @@
 
 ![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/UML_%EC%83%81%EC%86%8D.png)  
 
-
+>> 여러가지 객체들이 가지고 있는 공통적인 특성을 모아 일반화하는 관계입니다.  
 >> 일반화 관계는 일반적인 객체지향 언어에서는 상속으로 구현됩니다.  
 >> University Class를 상속받은 Professor과 Student의 관계입니다.  
 
