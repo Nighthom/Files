@@ -96,6 +96,7 @@ class B : public A {    // 빌드 에러!(final 클래스를 상속함)
 >> 함수 다형성 때문입니다.  
 >> 하지만 오버라이드 키워드를 붙여주면 빌드 에러가 납니다.  
 >> 이는, 실수로 잘못 작성한 코드를 줄여줄 수 있습니다.  
+```C++
 class A {
 protected:
   int print() override;
