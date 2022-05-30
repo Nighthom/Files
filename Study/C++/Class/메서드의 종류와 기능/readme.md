@@ -15,4 +15,4 @@ this 포인터 접근 ---- 가능 ----- 가능 ------- 불가능 ------ 가능
 >> 가상 함수 특징 : 상속 관계에서 의미가 큼.
 
   1. [상수형 메서드](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%EC%A2%85%EB%A5%98%EC%99%80%20%EA%B8%B0%EB%8A%A5/%EC%83%81%EC%88%98%ED%98%95%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
-  2. [정적 메서드]()
+  2. [정적 메서드](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%EC%A2%85%EB%A5%98%EC%99%80%20%EA%B8%B0%EB%8A%A5/%EC%A0%95%EC%A0%81%20%EB%A9%94%EC%84%9C%EB%93%9C%20or%20%EB%B3%80%EC%88%98.md)
