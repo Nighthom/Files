@@ -13,3 +13,4 @@
   11. [임시 객체와 이동 시멘틱](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%EC%9E%84%EC%8B%9C%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%9D%B4%EB%8F%99%20%EC%8B%9C%EB%A9%98%ED%8B%B1)
   12. [연산자 오버로딩](https://github.com/Nighthom/Files/blob/main/Study/C++/%EC%97%B0%EC%82%B0%EC%9E%90%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9)
   13. [friend](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/friend%20%EC%84%A0%EC%96%B8)
+  14. [수평적 관계와 집합 관계]()
