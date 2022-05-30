@@ -30,4 +30,3 @@
 >> 엮어지는지 협의를 통해서 규정할 것입니다.    
 >> 이를 **UML**이라고 합니다.(Unified Modeling diagram Language)
 
->> 클래스는  
