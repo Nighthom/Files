@@ -24,7 +24,7 @@ public:
   virtual void printData() {
     cout << "A::printData()" << endl;
   }  // 가상함수
-}
+virtual void print() = 0;     // 순수 
 class B : public A {
   virtual void printData() {
     cout << "B::printData()" << endl;
