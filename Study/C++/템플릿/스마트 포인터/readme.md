@@ -37,5 +37,29 @@ shared_ptr<int> inst;
 >> auto_ptr과 다르게, Shallow Copy로 여러 가지 참조하던 녀석을  
 >> 하나 없애버린다 해도, count수만 줄어들 뿐이죠. count가  
 >> 0이 되지 않는 한 말이죠.  
+>> shared_ptr은 auto_ptr과는 다르게 배열을 대상으로 한 삭제 연산을  
+>> 지원합니다. 하지만, 이는 프로그래머가 직접 작성해서 "등록"해주어야  
+>> 합니다. 
+>> shared_ptr이 auto_ptr보다 적합합니다.  
+```C++
+class A {
+public:
+  void removeA(A *pA) {                         // 배열을 지울 로직을 지정해준다.  
+    delete [] pa;
+  }
+};
+int main() {
+  shared_ptr<A> ptr(new A[3], removeA);         // shared_ptr을 초기화할 때, 새로 정의한 삭제 함수를 전달해준다.  
+  return 0;
+}
+```
+## unique_ptr
+>>  Shallow Copy를 문법적으로 차단해주는 스마트 포인터입니다.  
+>>  Shallow Copy를 실수로 만들었다면, 컴파일러가 오류로 잡아줍니다.  
+>>  shared_ptr과 조합한다면 실수할 확률이 획기적으로 줄어들겠죠.  
 
-## 
+## weak_ptr
+>> weak_ptr은 shared_ptr에 참조 형식으로 접근할 수 있는 스마트 포인터입니다.  
+>> shared_ptr을 얼마나 참조하던지간에 count하지도 않고,  
+>> weak_ptr이 얼마나 사라지던간에 참조하던 shared_ptr이 소멸하지도 않습니다.  
+>> shared_ptr을 가리키는 포인터?정도로만 작용한다고 보시면 되겠네요.  
