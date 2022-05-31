@@ -63,3 +63,8 @@ int main() {
 >> shared_ptr을 얼마나 참조하던지간에 count하지도 않고,  
 >> weak_ptr이 얼마나 사라지던간에 참조하던 shared_ptr이 소멸하지도 않습니다.  
 >> shared_ptr을 가리키는 포인터?정도로만 작용한다고 보시면 되겠네요.  
+
+## auto_ptr이나 weak_ptr은 권장하지 않습니다.  
+>> 사용을 권장하는 포인터는 기본적으로는 shared_ptr,  
+>> 그리고 간혹 하나만 참조로 써야 할 경우는 unique_ptr을   
+>> 보편적으로 이용하시기를 권합니다.  
