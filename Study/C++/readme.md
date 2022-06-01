@@ -15,4 +15,4 @@
   13. [friend](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/friend%20%EC%84%A0%EC%96%B8)
   14. [수평적 관계와 집합 관계](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%EC%88%98%ED%8F%89%EC%A0%81%20%EA%B4%80%EA%B3%84%EC%99%80%20%EC%A7%91%ED%95%A9%20%EA%B4%80%EA%B3%84)
   15. [템플릿](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/%ED%85%9C%ED%94%8C%EB%A6%BF)
-  16. [try-catch]()
+  16. [try-catch](https://github.com/Nighthom/Files/tree/main/Study/C%2B%2B/try-catch)
