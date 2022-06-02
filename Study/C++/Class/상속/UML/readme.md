@@ -14,7 +14,9 @@
 
 
 ## 클래스 다이어그램
-
+>> 클래스는 사각형 내부의 최상단 칸에는 클래스의 이름,  
+>> 중간 칸에는 클래스의 프로퍼티들,  
+>> 마지막 칸에는 클래스의 메서드들을 넣어서 그립니다.  
 1. 일반화 관계(Genaralization)
 
 ![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/UML_%EC%83%81%EC%86%8D.png)  
