@@ -105,3 +105,68 @@ int fscanf( FILE* stream, const char* format [,argument]...);
 >> 유니코드 : fwscanf(), fwscanf_s()  
 
 # fgetc() / fputc()
+```C
+int fgetC(char* stream);
+```
+>> 인자 : stream : FILE 구조체에 대한 포인터.  
+>> 반환값 : 정상적이라면 파일에서 읽은 문자를 반환한다. 오류 발생시 EOF를 반환한다.  
+>> 설명 : 대상 파일에서 문자를 읽어 들이는 함수.  
+```C
+int fputc(int c, FILE* stream);
+```
+>> 인자 : c : 파일에 쓸 문자
+>> ----- stream : FILE 구조체에 대한 포인터.  
+>> 반환값 : FILE 구조체에 대한 포인터.  
+>> 설명 : 대상 파일에서 문자를 읽어 들이는 함수.  
+
+## fgets() / fgets_s() / fputs()
+```C
+char* fgets(char* string, int n, FILE* stream);
+```
+>> 인자 : string : 읽어 들인 문자열이 저장될 버퍼의 주소  
+>> ------ n : 입력 버퍼의 크기  
+>> ------ stream : FILE 구조체에 대한 포인터  
+>> 반환값 : 정상적이면 string 인자로 전달받은 주소를 반환한다. 오류가 발생하면 NULL을 반환한다.  
+>> 설명 : 대상 파일에서 문자열을 읽어들이는 함수이다.  
+>> 유니코드 : fgetws();  
+>> 보안대체 : fgets_s(), fgetws_s();  
+```C
+int fputs( const char* string, FILE* stream);
+```
+>> 인자 : string : 출력할 문자열을 저장할 메모리의 주소  
+>> ------ stream : FILE 구조체에 대한 포인터  
+>> 반환값 : 정상적이면 음수가 아닌 값 반환. 오류면 EOF 반환.  
+>> 설명 : 대상 파일에 문자열을 출력하는 함수.  
+
+## fflush()
+```C
+int fflush( FILE* stream);
+```
+>> 인자 : stream : FILE 구조체에 대한 포인터.
+>> 반환값 : 성공하면 0 반환, 실패하면 EOF 반환.
+>> 설명 : 파일에 대한 입출력을 완료한 후, 파일 입출력과 관련된 정보들을 초기화한다.  
+>> 단, 메모리를 초기화하지는 않는다.
+
+# 바이너리 파일 입출력 함수
+## fread() / fwrite()
+```C
+size_t fread(void* buffer, size_t size, size_t count, FILE* stream);
+```
+>> 인자 : buffer : 파일에서 읽어들인 내용을 저장할 버퍼의 주소이다.  
+>> ------ size : 한번에 읽을 메모리 블록의 크기이다.  
+>> ------ count : 읽어들일 메모리 블록의 수이다.
+>> ------ stream : FILE 구조체에 대한 포인터이다.
+>> 반환값 : 함수가 성공하면 파일에서 읽어 들인 메모리 블록의 수를 반환한다.  
+>> 설명 : 바이너리 모드로 대상 파일에서 정보를 읽어 들이는 함수이다.  
+```C
+size_t fwrite(const void* buffer, size_t size, size_t count, FILE* stream);
+```
+>> 인자 : buffer : 파일 쓸 내용이 저장된 버퍼의 주소이다.  
+>> ------ size : 한번에 쓰고자 하는 메모리 블록의 크기이다.  
+>> ------ count : 쓰고자 하는 메모리 블록의 수이다.  
+>> ------ stream : FILE 구조체에 대한 포인터이다.  
+>> 반환값 : 쓰기에 성공한 메모리 블록의 수를 반환한다.  
+>> 설명 : 바이너리 모드로 대상 파일에 정보를 쓰는 함수.  
+
+>> 버퍼를 구조체의 포인터로 전달하고, 구조체의 포인터로 읽어오며,   
+>> 구조체의 사이즈를 전달한다면 구조체를 그대로 파일로 전달할 수도 있습니다.  
