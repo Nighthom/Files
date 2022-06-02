@@ -18,9 +18,10 @@
 >> 중간 칸에는 클래스의 프로퍼티들,  
 >> 마지막 칸에는 클래스의 메서드들을 넣어서 그립니다.  
 >> 프로퍼티의 자료형과 메서드의 반환 자료형 또한 넣어줍니다.  
+![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/%ED%81%B4%EB%9E%98%EC%8A%A4.png)
 
 >> 1. 일반화 관계(Genaralization)
-![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/UML_%EC%83%81%EC%86%8D.png)  
+![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D.png)  
 
 >> 여러가지 객체들이 가지고 있는 공통적인 특성을 모아 일반화하는 관계입니다.  
 >> 일반화 관계는 일반적인 객체지향 언어에서는 상속으로 구현됩니다.  
