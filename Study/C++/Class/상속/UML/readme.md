@@ -27,6 +27,9 @@
 >> 길러멧( << >> ) 이라는 쌍꺾쇄 모양의 문자를 쓰는데, 엄밀히 말해서 쌍꺾쇄와 다른 기호입니다.  
 >> interface는 C++기준으로는 순수 가상 클래스? 추상 클래스? 정도로 이해하시면 좋습니다.  
 
+## 클래스 다이어그램 : 관계
+![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8_%ED%99%94%EC%82%B4%ED%91%9C%EB%93%A4.png)  
+>> 위의 사진이 관계들을 나타내는 화살표들입니다. 차례로 설명하겠습니다.  
 >> 1. 일반화 관계(Genaralization)
 
 ![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D.png)    
