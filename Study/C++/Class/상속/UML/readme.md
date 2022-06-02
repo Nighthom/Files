@@ -21,12 +21,13 @@
 ![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/%ED%81%B4%EB%9E%98%EC%8A%A4.png)  
 
 ## 클래스 스테리오 타입
->> 스테리오 타입이라는 것은 UML에서 제공하는 기본적인 요소 이외에  
->> 제공되는 다른 요소를 의미합니다.  
-![]()
+>> 스테리오 타입이라는 것은 UML에서 제공하는 기본적인 요소 이외에    
+>> 제공되는 다른 요소를 의미합니다.    
+![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B8%B8%EB%9F%AC%EB%A9%A7.png)  
+>> 길러멧( << >> ) 이라는 쌍꺾쇄 모양의 문자를 쓰는데, 엄밀히 말해서 쌍꺾쇄와 다른 기호입니다.  
+>> interface는 C++기준으로는 순수 가상 클래스? 추상 클래스? 정도로 이해하시면 좋습니다.  
 
 >> 1. 일반화 관계(Genaralization)
-
 
 ![](https://github.com/Nighthom/Files/blob/main/Study/C%2B%2B/Class/%EC%83%81%EC%86%8D/UML/%EC%82%AC%EC%A7%84%ED%8C%8C%EC%9D%BC/%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D.png)    
 
