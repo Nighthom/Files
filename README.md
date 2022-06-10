@@ -13,3 +13,4 @@
   I [어셈블리]() To be uploaded    
   J. [리버싱]()   To be uploaded    
   K. [머신러닝]() To be uploaded    
+  L. [커널]()  
