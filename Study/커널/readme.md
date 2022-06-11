@@ -5,4 +5,4 @@
 >> [osdev](https://wiki.osdev.org/Expanded_Main_Page)
 
 
-  1. 리얼 모드()
+  1. 리얼 모드(https://github.com/Nighthom/Files/blob/main/Study/%EC%BB%A4%EB%84%90/real%20mode/readme.md)
