@@ -41,7 +41,7 @@ public:
                                         //  "상수" 참조형을 받는다. 주로 rhs로 식별자를 많이 씀.    
   // : m_nData(rhs.m_nData) 와 동치
   {
-    this->m_nData = rhs.m_nData;
+    *(this->m_nData) = *(rhs.m_nData);
   }
 private:
   int* m_nData;
@@ -77,7 +77,7 @@ private:
 >> 재정의해주어야 합니다.  
 ```C++
 CMyData& operator=(const CMyData &rhs) {
-  *m_nData = *this.m_nData;         // 내용을 deep copy해준다.
+  *m_nData = *(rhs.m_nData);         // 내용을 deep copy해준다.
   
   return *this;                    // 객체 자신에 대한 참조를 반환
 }
